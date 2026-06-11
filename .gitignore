@@ -1,0 +1,17 @@
+# Secrets
+secret.h
+
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
